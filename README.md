@@ -1,15 +1,2 @@
-# AWS Learning by https://www.youtube.com/@vishakha.sadhwani
-https://docs.google.com/spreadsheets/d/1c6OY3-f-gLcg278J4SPgfJP0gFTJ_EWjelVXLC2QPHA/edit?pli=1&gid=0#gid=0
-
-# Learning Tracker
-https://docs.google.com/spreadsheets/d/1mO-o_gJdatrmtOyY5RskpbU789n774M-et_qFbF2AJU/edit?gid=0#gid=0
-
-# -Projects-Amazon-Web-Services
-Projects to learn and master AWS Cloud with GENERATIVE AI.
-
-1. CI/CD PIPELINE FOR THE 2048 GAME: TECH WITH LUCY
-2. REAL TIME STOCK MARKET DATA ANALYTICS PIPELINE ON AWS: TECH WITH LUCY
-USE HOSTINGER HORIZONS FOR PROJECTS DASHBOARD.
-3. CYBER SECURITY THEART DETECTION SYS. AMAZON SAGEMAKER. TECH WITH LUCY
-4. MULTICLOUD WEATHER TRACKER WITH DISASTER RECOVERY. AWS, AZURE AND TERRAFORM: TECH WITH LUCY
-5. TRADITIONAL 3-TIER WORDPRESS WEBSITE DEPLOYMENT ON AWS: TECH WITH LUCY
+# PartyRock:
+* BedRock PlayGround
