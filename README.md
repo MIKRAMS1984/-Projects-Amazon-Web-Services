@@ -1,6 +1,9 @@
 # AWS Learning by https://www.youtube.com/@vishakha.sadhwani
 https://docs.google.com/spreadsheets/d/1c6OY3-f-gLcg278J4SPgfJP0gFTJ_EWjelVXLC2QPHA/edit?pli=1&gid=0#gid=0
 
+# Learning Tracker
+https://docs.google.com/spreadsheets/d/1mO-o_gJdatrmtOyY5RskpbU789n774M-et_qFbF2AJU/edit?gid=0#gid=0
+
 # -Projects-Amazon-Web-Services
 Projects to learn and master AWS Cloud with GENERATIVE AI.
 
