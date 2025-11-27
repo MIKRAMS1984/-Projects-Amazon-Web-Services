@@ -1,6 +1,9 @@
 # -Projects-Amazon-Web-Services
 Projects to learn and master AWS Cloud with GENERATIVE AI.
 
+2. Amazaon Bedrock Build AI CHAT APP.
+   https://www.youtube.com/watch?v=E1-mUfpeRu0
+
 1. Amazon BedRock for Gen AI Apps.
    https://www.youtube.com/watch?v=SBdS1vRmO6k
 
