@@ -1,6 +1,10 @@
 # -Projects-Amazon-Web-Services
 Projects to learn and master AWS Cloud with GENERATIVE AI.
 
+1. 
+
+These Projects are based on DEVOPS not Generatvie AI.
+
 1. CI/CD PIPELINE FOR THE 2048 GAME: TECH WITH LUCY
 2. REAL TIME STOCK MARKET DATA ANALYTICS PIPELINE ON AWS: TECH WITH LUCY
 USE HOSTINGER HORIZONS FOR PROJECTS DASHBOARD.
