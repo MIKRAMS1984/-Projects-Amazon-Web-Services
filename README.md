@@ -3,7 +3,7 @@ Projects to learn and master AWS Cloud with GENERATIVE AI.
 
 3. End to End Agentic Projects LLMOPS: https://www.youtube.com/watch?v=ghnFmeY4bO4&t=184s
    * Build End to End Agentic AI Project using LangGraph Library.
-   * 
+   * AI Based Trip Plannar System.
 
 2. Amazaon Bedrock Build AI CHAT APP.
    https://www.youtube.com/watch?v=E1-mUfpeRu0
