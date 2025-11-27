@@ -5,7 +5,7 @@ Projects to learn and master AWS Cloud with GENERATIVE AI.
    * Build End to End Agentic AI Project using LangGraph Library.
    * AI Based Trip Plannar System.
    * Installation Required:
-  ** uv: A Project Manager Package.
+     i. uv: A Project Manager Package.
 
 2. Amazaon Bedrock Build AI CHAT APP.
    https://www.youtube.com/watch?v=E1-mUfpeRu0
