@@ -4,10 +4,14 @@ Projects to learn and master AWS Cloud with GENERATIVE AI.
 3. End to End Agentic Projects LLMOPS: https://www.youtube.com/watch?v=ghnFmeY4bO4&t=184s
    * Build End to End Agentic AI Project using LangGraph Library.
    * AI Based Trip Plannar System.
-   * Installation Required with commands practice:
+   * Installation Required with commands practice for Versin Specific Virtual Env:
      * uv: A Project Manager Package.
      * uv python list
      * cls
+     * uv python install pypy-3.11.13-windows-x86_64-none
+     * uv python list
+     * uv venv env --python 3.11
+     * uv pip list
      * 
 
 2. Amazaon Bedrock Build AI CHAT APP.
