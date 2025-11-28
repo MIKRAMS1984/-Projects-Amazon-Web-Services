@@ -1,6 +1,12 @@
 # -Projects-Amazon-Web-Services
 Projects to learn and master AWS Cloud with GENERATIVE AI.
 
+Project 2: End to End AI Agent Chatbot with FastAPI, LangGraph, Langchain | Production Ready | Build GenAI App
+https://www.youtube.com/watch?v=9XMNWo8qNHs
+
+
+
+
 3. End to End Agentic Projects LLMOPS: https://www.youtube.com/watch?v=ghnFmeY4bO4&t=184s
    * Build End to End Agentic AI Project using LangGraph Library.
    * AI Based Trip Plannar System.
