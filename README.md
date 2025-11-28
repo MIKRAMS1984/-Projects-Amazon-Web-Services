@@ -12,7 +12,7 @@ Projects to learn and master AWS Cloud with GENERATIVE AI.
      * uv python list
      * uv venv env --python 3.11
      * uv pip list
-     * 
+     * uv pip install langchain
 
 2. Amazaon Bedrock Build AI CHAT APP.
    https://www.youtube.com/watch?v=E1-mUfpeRu0
